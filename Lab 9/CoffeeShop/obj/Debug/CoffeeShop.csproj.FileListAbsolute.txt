@@ -1,0 +1,182 @@
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Buffers.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Memory.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.ValueTuple.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Buffers.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Memory.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.ValueTuple.xml
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Buffers.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Memory.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.ValueTuple.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Buffers.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Memory.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.ValueTuple.xml
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab6_submission\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Buffers.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Memory.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.ValueTuple.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Buffers.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Memory.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\bin\Debug\System.ValueTuple.xml
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\YiChenH_301261086_Lab6\CoffeeShop\obj\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Buffers.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Memory.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Buffers.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Memory.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.xml
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Buffers.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Memory.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Buffers.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Memory.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.xml
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\301261086\Downloads\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Buffers.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Memory.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Buffers.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Memory.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.xml
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\zahar\Downloads\Lab 9_UpdatedDesign (1)\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Buffers.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Memory.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Buffers.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Memory.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Numerics.Vectors.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Text.Encodings.Web.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\bin\Debug\System.ValueTuple.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\CoffeeShop\obj\Debug\CoffeeShop.pdb

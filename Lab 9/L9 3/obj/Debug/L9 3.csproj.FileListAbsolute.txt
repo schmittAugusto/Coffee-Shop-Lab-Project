@@ -1,0 +1,38 @@
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\L9 3.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\L9 3.csproj.SuggestedBindingRedirects.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\CustomerForm.CustomerForm.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\L9_3.MainForm.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\AddOrderForm.AddOrderItemForm.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\Lab_9.Properties.Resources.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\L9 3.csproj.GenerateResource.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\L9 3.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\Lab 9.exe
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\Lab 9.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\Lab 9.exe.config
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\Lab 9.exe
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\Lab 9.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\Lab 9\obj\Debug\L9 3.csproj.CopyComplete
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\Lab 9.exe.config
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\Lab 9.exe
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\Lab 9.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\CoffeeShop.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\Newtonsoft.Json.dll
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\CoffeeShop.pdb
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\CoffeeShop.dll.config
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\bin\Debug\Newtonsoft.Json.xml
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\L9 3.csproj.AssemblyReference.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\L9 3.csproj.SuggestedBindingRedirects.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\CustomerForm.CustomerForm.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\L9_3.MainForm.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\AddOrderForm.AddOrderItemForm.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\Lab_9.Properties.Resources.resources
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\L9 3.csproj.GenerateResource.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\L9 3.csproj.CoreCompileInputs.cache
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\L9 3.csproj.CopyComplete
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\Lab 9.exe
+H:\COMP123\Assignment\Lab 9\Final\Lab 9_UpdatedDesign\Lab 9\L9 3\obj\Debug\Lab 9.pdb

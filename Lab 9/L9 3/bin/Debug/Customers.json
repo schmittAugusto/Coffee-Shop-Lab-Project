@@ -1,0 +1,719 @@
+{
+  "$type": "System.Collections.Generic.List`1[[CoffeeShop.Customer, CoffeeShop]], mscorlib",
+  "$values": [
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": "Toronto",
+        "PostalCode": "M2M 2K5",
+        "Province": "ON",
+        "Street": "35 Elm St"
+      },
+      "IdNumber": 1,
+      "Name": "Jon Smith",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 12.45,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M2M 2K5",
+              "Province": "ON",
+              "Street": "35 Elm St"
+            },
+            "DeliveryTime": "2023-04-09T11:45:22.0161501-04:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.05,
+                  "Description": "Black Coffee, Sugar",
+                  "Item": {
+                    "$type": "CoffeeShop.Sugar, CoffeeShop",
+                    "baseCost": 3.05,
+                    "description": "Black Coffee, Sugar",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Coffee, CoffeeShop",
+                      "baseCost": 3.0,
+                      "description": "Black Coffee",
+                      "BaseCost": 3.0,
+                      "Description": "Black Coffee"
+                    },
+                    "BaseCost": 6.05,
+                    "Description": "Black Coffee, Black Coffee, Sugar"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.10,
+                  "Description": "Black Coffee, Sugar, Sugar",
+                  "Item": {
+                    "$type": "CoffeeShop.Sugar, CoffeeShop",
+                    "baseCost": 3.10,
+                    "description": "Black Coffee, Sugar, Sugar",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Sugar, CoffeeShop",
+                      "baseCost": 3.05,
+                      "description": "Black Coffee, Sugar",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Coffee, CoffeeShop",
+                        "baseCost": 3.0,
+                        "description": "Black Coffee",
+                        "BaseCost": 3.0,
+                        "Description": "Black Coffee"
+                      },
+                      "BaseCost": 6.05,
+                      "Description": "Black Coffee, Black Coffee, Sugar"
+                    },
+                    "BaseCost": 9.15,
+                    "Description": "Black Coffee, Black Coffee, Sugar, Black Coffee, Sugar, Sugar"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.15,
+                  "Description": "Black Coffee, Milk, Sugar",
+                  "Item": {
+                    "$type": "CoffeeShop.Sugar, CoffeeShop",
+                    "baseCost": 3.15,
+                    "description": "Black Coffee, Milk, Sugar",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Milk, CoffeeShop",
+                      "baseCost": 3.1,
+                      "description": "Black Coffee, Milk",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Coffee, CoffeeShop",
+                        "baseCost": 3.0,
+                        "description": "Black Coffee",
+                        "BaseCost": 3.0,
+                        "Description": "Black Coffee"
+                      },
+                      "BaseCost": 6.1,
+                      "Description": "Black Coffee, Black Coffee, Milk"
+                    },
+                    "BaseCost": 9.25,
+                    "Description": "Black Coffee, Black Coffee, Milk, Black Coffee, Milk, Sugar"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.15,
+                  "Description": "Black Coffee, Milk, Sugar",
+                  "Item": {
+                    "$type": "CoffeeShop.Sugar, CoffeeShop",
+                    "baseCost": 3.15,
+                    "description": "Black Coffee, Milk, Sugar",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Milk, CoffeeShop",
+                      "baseCost": 3.1,
+                      "description": "Black Coffee, Milk",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Coffee, CoffeeShop",
+                        "baseCost": 3.0,
+                        "description": "Black Coffee",
+                        "BaseCost": 3.0,
+                        "Description": "Black Coffee"
+                      },
+                      "BaseCost": 6.1,
+                      "Description": "Black Coffee, Black Coffee, Milk"
+                    },
+                    "BaseCost": 9.25,
+                    "Description": "Black Coffee, Black Coffee, Milk, Black Coffee, Milk, Sugar"
+                  }
+                }
+              ]
+            },
+            "OrderId": 1,
+            "OrderTime": "2023-04-09T11:45:21.9961462-04:00",
+            "OrderType": 0
+          },
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 7.70,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M2M 2K5",
+              "Province": "ON",
+              "Street": "35 Elm St"
+            },
+            "DeliveryTime": "2023-04-09T11:45:22.0161501-04:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 2.0,
+                  "Description": "Tea, Milk, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 2.0,
+                    "description": "Tea, Milk, Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Milk, CoffeeShop",
+                      "baseCost": 1.9,
+                      "description": "Tea, Milk",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Tea, CoffeeShop",
+                        "baseCost": 1.8,
+                        "description": "Tea",
+                        "BaseCost": 1.8,
+                        "Description": "Tea"
+                      },
+                      "BaseCost": 3.7,
+                      "Description": "Tea, Tea, Milk"
+                    },
+                    "BaseCost": 5.7,
+                    "Description": "Tea, Tea, Milk, Tea, Milk, Milk"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 5.70,
+                  "Description": "Sandwich With Bacon, Cheese, Lettuce",
+                  "Item": {
+                    "$type": "CoffeeShop.Lettuce, CoffeeShop",
+                    "baseCost": 5.70,
+                    "description": "Sandwich With Bacon, Cheese, Lettuce",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Cheese, CoffeeShop",
+                      "baseCost": 5.40,
+                      "description": "Sandwich With Bacon, Cheese",
+                      "menuItem": {
+                        "$type": "CoffeeShop.SandwichWithBacon, CoffeeShop",
+                        "baseCost": 5.0,
+                        "description": "Sandwich With Bacon",
+                        "BaseCost": 5.0,
+                        "Description": "Sandwich With Bacon"
+                      },
+                      "BaseCost": 10.40,
+                      "Description": "Sandwich With Bacon, Sandwich With Bacon, Cheese"
+                    },
+                    "BaseCost": 16.10,
+                    "Description": "Sandwich With Bacon, Sandwich With Bacon, Cheese, Sandwich With Bacon, Cheese, Lettuce"
+                  }
+                }
+              ]
+            },
+            "OrderId": 2,
+            "OrderTime": "2023-04-09T11:45:22.0031422-04:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 4161234567
+    },
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": "Toronto",
+        "PostalCode": "M2T 1M1",
+        "Province": "ON",
+        "Street": "35 Queen St"
+      },
+      "IdNumber": 2,
+      "Name": "Ann Brown",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 6.2,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M2T 1M1",
+              "Province": "ON",
+              "Street": "35 Queen St"
+            },
+            "DeliveryTime": "2023-04-09T11:45:22.0161501-04:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.1,
+                  "Description": "Black Coffee, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 3.1,
+                    "description": "Black Coffee, Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Coffee, CoffeeShop",
+                      "baseCost": 3.0,
+                      "description": "Black Coffee",
+                      "BaseCost": 3.0,
+                      "Description": "Black Coffee"
+                    },
+                    "BaseCost": 6.1,
+                    "Description": "Black Coffee, Black Coffee, Milk"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.1,
+                  "Description": "Black Coffee, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 3.1,
+                    "description": "Black Coffee, Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Coffee, CoffeeShop",
+                      "baseCost": 3.0,
+                      "description": "Black Coffee",
+                      "BaseCost": 3.0,
+                      "Description": "Black Coffee"
+                    },
+                    "BaseCost": 6.1,
+                    "Description": "Black Coffee, Black Coffee, Milk"
+                  }
+                }
+              ]
+            },
+            "OrderId": 3,
+            "OrderTime": "2023-04-09T11:45:22.0031422-04:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 4169876543
+    },
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": "Toronto",
+        "PostalCode": "",
+        "Province": "ON",
+        "Street": ""
+      },
+      "IdNumber": 3,
+      "Name": "John Dow",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 6.0,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "",
+              "Province": "ON",
+              "Street": ""
+            },
+            "DeliveryTime": "2023-04-09T11:45:22.0161501-04:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 2.2,
+                  "Description": "Dark Roasted Coffee, Milk, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 2.2,
+                    "description": "Dark Roasted Coffee, Milk, Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Milk, CoffeeShop",
+                      "baseCost": 2.1,
+                      "description": "Dark Roasted Coffee, Milk",
+                      "menuItem": {
+                        "$type": "CoffeeShop.CoffeeDarkRoast, CoffeeShop",
+                        "baseCost": 2.0,
+                        "description": "Dark Roasted Coffee",
+                        "BaseCost": 2.0,
+                        "Description": "Dark Roasted Coffee"
+                      },
+                      "BaseCost": 4.1,
+                      "Description": "Dark Roasted Coffee, Dark Roasted Coffee, Milk"
+                    },
+                    "BaseCost": 6.3,
+                    "Description": "Dark Roasted Coffee, Dark Roasted Coffee, Milk, Dark Roasted Coffee, Milk, Milk"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 1.9,
+                  "Description": "Tea, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 1.9,
+                    "description": "Tea, Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Tea, CoffeeShop",
+                      "baseCost": 1.8,
+                      "description": "Tea",
+                      "BaseCost": 1.8,
+                      "Description": "Tea"
+                    },
+                    "BaseCost": 3.7,
+                    "Description": "Tea, Tea, Milk"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 1.9,
+                  "Description": "Tea, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 1.9,
+                    "description": "Tea, Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Tea, CoffeeShop",
+                      "baseCost": 1.8,
+                      "description": "Tea",
+                      "BaseCost": 1.8,
+                      "Description": "Tea"
+                    },
+                    "BaseCost": 3.7,
+                    "Description": "Tea, Tea, Milk"
+                  }
+                }
+              ]
+            },
+            "OrderId": 4,
+            "OrderTime": "2023-04-09T11:45:22.0031422-04:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 0
+    },
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": "Toronto",
+        "PostalCode": "M1M 1M1",
+        "Province": "ON",
+        "Street": "2 King St."
+      },
+      "IdNumber": 4,
+      "Name": "Coffee and sandwiches",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 5.70,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St."
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 5.70,
+                  "Description": "Sandwich With Bacon, Cheese, Lettuce",
+                  "Item": {
+                    "$type": "CoffeeShop.Lettuce, CoffeeShop",
+                    "baseCost": 5.70,
+                    "description": "Sandwich With Bacon, Cheese, Lettuce",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Cheese, CoffeeShop",
+                      "baseCost": 5.40,
+                      "description": "Sandwich With Bacon, Cheese",
+                      "menuItem": {
+                        "$type": "CoffeeShop.SandwichWithBacon, CoffeeShop",
+                        "baseCost": 5.0,
+                        "description": "Sandwich With Bacon",
+                        "BaseCost": 5.0,
+                        "Description": "Sandwich With Bacon"
+                      },
+                      "BaseCost": 10.40,
+                      "Description": "Sandwich With Bacon, Sandwich With Bacon, Cheese"
+                    },
+                    "BaseCost": 16.10,
+                    "Description": "Sandwich With Bacon, Sandwich With Bacon, Cheese, Sandwich With Bacon, Cheese, Lettuce"
+                  }
+                }
+              ]
+            },
+            "OrderId": 5,
+            "OrderTime": "2023-04-09T11:45:22.0031422-04:00",
+            "OrderType": 1
+          },
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 9.85,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St."
+            },
+            "DeliveryTime": "0001-01-01T00:00:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 5.85,
+                  "Description": "Sandwich With Roasted Beef, Tomato",
+                  "Item": {
+                    "$type": "CoffeeShop.Tomato, CoffeeShop",
+                    "baseCost": 5.85,
+                    "description": "Sandwich With Roasted Beef, Tomato",
+                    "menuItem": {
+                      "$type": "CoffeeShop.SandwichWithRoastedBeef, CoffeeShop",
+                      "baseCost": 5.5,
+                      "description": "Sandwich With Roasted Beef",
+                      "BaseCost": 5.5,
+                      "Description": "Sandwich With Roasted Beef"
+                    },
+                    "BaseCost": 11.35,
+                    "Description": "Sandwich With Roasted Beef, Sandwich With Roasted Beef, Tomato"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 4.0,
+                  "Description": "Sandwich With Egg Salad",
+                  "Item": {
+                    "$type": "CoffeeShop.SandwichWithEggSalad, CoffeeShop",
+                    "baseCost": 4.0,
+                    "description": "Sandwich With Egg Salad",
+                    "BaseCost": 4.0,
+                    "Description": "Sandwich With Egg Salad"
+                  }
+                }
+              ]
+            },
+            "OrderId": 6,
+            "OrderTime": "2023-04-09T11:45:22.0031422-04:00",
+            "OrderType": 1
+          }
+        ]
+      },
+      "Phone": 0
+    },
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": null,
+        "PostalCode": null,
+        "Province": "ON",
+        "Street": null
+      },
+      "IdNumber": 5,
+      "Name": "Jane Hsu",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 3.2,
+            "IsDelivered": true,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St."
+            },
+            "DeliveryTime": "2023-04-09T11:53:09.0905129-04:00",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 3.2,
+                  "Description": "Black Coffee, Milk, Milk",
+                  "Item": {
+                    "$type": "CoffeeShop.Milk, CoffeeShop",
+                    "baseCost": 0.1,
+                    "description": "Milk",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Milk, CoffeeShop",
+                      "baseCost": 0.1,
+                      "description": "Milk",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Coffee, CoffeeShop",
+                        "baseCost": 3.0,
+                        "description": "Black Coffee",
+                        "BaseCost": 3.0,
+                        "Description": "Black Coffee"
+                      },
+                      "BaseCost": 3.1,
+                      "Description": "Black Coffee, Milk"
+                    },
+                    "BaseCost": 3.2,
+                    "Description": "Black Coffee, Milk, Milk"
+                  }
+                }
+              ]
+            },
+            "OrderId": 7,
+            "OrderTime": "2023-04-09T11:52:23.3302391-04:00",
+            "OrderType": 1
+          }
+        ]
+      },
+      "Phone": 4370001234
+    },
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": null,
+        "PostalCode": null,
+        "Province": "ON",
+        "Street": null
+      },
+      "IdNumber": 6,
+      "Name": "Zakhar Hamarnyk",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": []
+      },
+      "Phone": 6470001234
+    },
+    {
+      "$type": "CoffeeShop.Customer, CoffeeShop",
+      "Address": {
+        "$type": "CoffeeShop.Address, CoffeeShop",
+        "City": null,
+        "PostalCode": null,
+        "Province": "ON",
+        "Street": null
+      },
+      "IdNumber": 7,
+      "Name": "Augusto Schmitt",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[CoffeeShop.Order, CoffeeShop]], mscorlib",
+        "$values": [
+          {
+            "$type": "CoffeeShop.Order, CoffeeShop",
+            "Cost": 9.70,
+            "IsDelivered": false,
+            "DeliveryAddress": {
+              "$type": "CoffeeShop.Address, CoffeeShop",
+              "City": "Toronto",
+              "PostalCode": "M1M 1M1",
+              "Province": "ON",
+              "Street": "1 King St."
+            },
+            "DeliveryTime": "2023-04-14T11:52:45",
+            "Items": {
+              "$type": "System.Collections.Generic.List`1[[CoffeeShop.OrderItem, CoffeeShop]], mscorlib",
+              "$values": [
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 7.40,
+                  "Description": "Sandwich With Roasted Beef, Tomato, Tomato, Cheese, Cheese, Cheese",
+                  "Item": {
+                    "$type": "CoffeeShop.Cheese, CoffeeShop",
+                    "baseCost": 0.40,
+                    "description": "Cheese",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Cheese, CoffeeShop",
+                      "baseCost": 0.40,
+                      "description": "Cheese",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Cheese, CoffeeShop",
+                        "baseCost": 0.40,
+                        "description": "Cheese",
+                        "menuItem": {
+                          "$type": "CoffeeShop.Tomato, CoffeeShop",
+                          "baseCost": 0.35,
+                          "description": "Tomato",
+                          "menuItem": {
+                            "$type": "CoffeeShop.Tomato, CoffeeShop",
+                            "baseCost": 0.35,
+                            "description": "Tomato",
+                            "menuItem": {
+                              "$type": "CoffeeShop.SandwichWithRoastedBeef, CoffeeShop",
+                              "baseCost": 5.5,
+                              "description": "Sandwich With Roasted Beef",
+                              "BaseCost": 5.5,
+                              "Description": "Sandwich With Roasted Beef"
+                            },
+                            "BaseCost": 5.85,
+                            "Description": "Sandwich With Roasted Beef, Tomato"
+                          },
+                          "BaseCost": 6.20,
+                          "Description": "Sandwich With Roasted Beef, Tomato, Tomato"
+                        },
+                        "BaseCost": 6.60,
+                        "Description": "Sandwich With Roasted Beef, Tomato, Tomato, Cheese"
+                      },
+                      "BaseCost": 7.00,
+                      "Description": "Sandwich With Roasted Beef, Tomato, Tomato, Cheese, Cheese"
+                    },
+                    "BaseCost": 7.40,
+                    "Description": "Sandwich With Roasted Beef, Tomato, Tomato, Cheese, Cheese, Cheese"
+                  }
+                },
+                {
+                  "$type": "CoffeeShop.OrderItem, CoffeeShop",
+                  "Cost": 2.30,
+                  "Description": "Dark Roasted Coffee, Milk, Milk, Sugar, Sugar",
+                  "Item": {
+                    "$type": "CoffeeShop.Sugar, CoffeeShop",
+                    "baseCost": 0.05,
+                    "description": "Sugar",
+                    "menuItem": {
+                      "$type": "CoffeeShop.Sugar, CoffeeShop",
+                      "baseCost": 0.05,
+                      "description": "Sugar",
+                      "menuItem": {
+                        "$type": "CoffeeShop.Milk, CoffeeShop",
+                        "baseCost": 0.1,
+                        "description": "Milk",
+                        "menuItem": {
+                          "$type": "CoffeeShop.Milk, CoffeeShop",
+                          "baseCost": 0.1,
+                          "description": "Milk",
+                          "menuItem": {
+                            "$type": "CoffeeShop.CoffeeDarkRoast, CoffeeShop",
+                            "baseCost": 2.0,
+                            "description": "Dark Roasted Coffee",
+                            "BaseCost": 2.0,
+                            "Description": "Dark Roasted Coffee"
+                          },
+                          "BaseCost": 2.1,
+                          "Description": "Dark Roasted Coffee, Milk"
+                        },
+                        "BaseCost": 2.2,
+                        "Description": "Dark Roasted Coffee, Milk, Milk"
+                      },
+                      "BaseCost": 2.25,
+                      "Description": "Dark Roasted Coffee, Milk, Milk, Sugar"
+                    },
+                    "BaseCost": 2.30,
+                    "Description": "Dark Roasted Coffee, Milk, Milk, Sugar, Sugar"
+                  }
+                }
+              ]
+            },
+            "OrderId": 9,
+            "OrderTime": "2023-04-09T11:52:45.2575394-04:00",
+            "OrderType": 0
+          }
+        ]
+      },
+      "Phone": 9020001234
+    }
+  ]
+}

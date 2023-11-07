@@ -1,0 +1,34 @@
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\CustomerForm.exe.config
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\CustomerForm.exe
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\CustomerForm.pdb
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\CoffeeShop.dll
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\CoffeeShop.pdb
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\CoffeeShop.dll.config
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.AssemblyReference.cache
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.Form1.resources
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.Properties.Resources.resources
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.GenerateResource.cache
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.CoreCompileInputs.cache
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.CopyComplete
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.exe
+C:\Users\rodul\iCloudDrive\Centennial\COMP 123 Progamming 2\Lab 9\Lab 9\CustomerForm\obj\Debug\CustomerForm.pdb
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\CustomerForm.exe.config
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\CustomerForm.exe
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\CustomerForm.pdb
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\CoffeeShop.dll
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\CoffeeShop.pdb
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\CoffeeShop.dll.config
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.AssemblyReference.cache
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.Form1.resources
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.Properties.Resources.resources
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.GenerateResource.cache
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.CoreCompileInputs.cache
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.csproj.CopyComplete
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.exe
+C:\Users\301261086\Downloads\Lab 9 - Markhill\Lab 9 - Markhill\Lab 9\CustomerForm\obj\Debug\CustomerForm.pdb
